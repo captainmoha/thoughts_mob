@@ -37,7 +37,7 @@ import java.util.Map;
 public class LoginActivity extends AppCompatActivity {
     private LoginTask mAuthTask = null;
     private static final String LOGIN_API_URI = "https://thoughty.herokuapp.com/login/";
-    //    private static final String LOGIN_API_URI = "http://192.168.1.4:1880/loginMob";
+    //    private static final String LOGIN_API_URI = "http://192.168.1.4:1880/login";
     private String dataPath;
 
     // UI references.

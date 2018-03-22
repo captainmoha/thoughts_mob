@@ -29,7 +29,7 @@ public class RegisterActivity extends AppCompatActivity {
 
     private Activity activity;
     private static final String REGISTER_API_URI = "https://thoughty.herokuapp.com/register/";
-//    private static final String REGISTER_API_URI = "http://192.168.1.4:1880/registeruser";
+//    private static final String REGISTER_API_URI = "http://192.168.1.4:1880/register/";
 
     EditText username, email, password, name;
     Button registerBtn ;
